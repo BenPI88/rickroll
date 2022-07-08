@@ -1,2 +1,2 @@
 import os
-os.system("python 100volume.py & python open-vlc.py & chromium https://www.thisworldthesedays.com/when-is-he-coming-back-with-the-milk.html")
+os.system("python 100volume.py & python open-vlc.py & chromium https://www.thisworldthesedays.com/when-is-he-coming-back-with-the-milk.html & chromium https://www.google.com/search?q=rickroll+virus+by+%22github.com/BenPI88%22&ei=RkHIYpn4CsGeqtsPkaqTGA&ved=0ahUKEwiZs4Swwun4AhVBj2oFHRHVBAMQ4dUDCA0&uact=5&oq=rickroll+virus+by+%22github.com/BenPI88%22&gs_lcp=Cgdnd3Mtd2l6EAM6BQghEKABSgQIQRgBSgQIRhgAUPwHWNseYLUiaAFwAHgAgAF8iAHzAZIBAzAuMpgBAKABAcABAQ&sclient=gws-wiz & chromium https://animalroyale.com/")
