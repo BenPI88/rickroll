@@ -1,2 +1,2 @@
 import os
-os.system("python open-vlc.py & delay 20 && 100volume.py")
+os.system("100volume.py & python exec-all")
