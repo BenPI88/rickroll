@@ -1,1 +1,1 @@
-rm -rf ~/Documents/rickroll && cd ~/Documents && git clone https://github.com/BenPI88/rickroll.git && cd rickroll && cd payload && python exec-all.py
+rm -rf ~/Documents/rickroll && cd ~/Documents && git clone https://github.com/BenPI88/rickroll.git && cd rickroll && cd payload && python3 exec-all.py
