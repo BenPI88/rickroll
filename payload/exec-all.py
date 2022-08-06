@@ -1,2 +1,2 @@
 import os
-os.system("python 100volume.py & python open-vlc.py")
+os.system("python3 100volume.py & python3 open-vlc.py")
